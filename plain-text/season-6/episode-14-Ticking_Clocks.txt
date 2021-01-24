@@ -1,0 +1,1613 @@
+>So you guys are gonna tie up
+the only microwave
+
+for 20 minutes
+to make a frozen lasagna?
+
+- Ballsy.
+- You ignorant loser.
+
+First of all, it's not
+just a frozen lasagna,
+
+it's a Mama Magglione's.
+
+Second of all, it's gonna
+take 21 1/2 minutes.
+
+The box says 20, but we know
+better than the box.
+
+You see, this microwave
+is a KitchenPro Max.
+
+- Bit of a lightweight.
+- It's only 1.2 kilowatts.
+
+- Fine for popcorn.
+- But we're talking about
+
+a Mama Magglione's here.
+
+
+
+
+
+     
+
+
+Takes a lot to get mama hot.
+
+She's a real size-queen.
+
+Well, that started out fun,
+
+and here we are at our normal
+ending place: disgusting.
+
+Uh-oh.
+Guys!
+
+We have a major problem here.
+
+- No garlic bread.
+- Okay, we need to stay calm. Let's think.
+
+The garlic bread needs
+to go in the toaster oven
+
+with eight minutes
+left on the lasagna.
+
+Maybe we could run down to the
+corner store and make it in time.
+
+That just gives us 12 minutes
+to go to a place and come back.
+
+- Mama Magglione.
+- We have to go now!
+
+Okay, well,
+good luck with that, weirdos.
+
+Stupid piece of crap.
+
+
+
+
+
+     
+
+
+Rosa, come on.
+
+You can't break a mouse in half.
+
+Oh, wow, you did.
+
+Scary. You really earn your rep.
+
+Stupid internet. The network's been
+down all morning, and my girlfriend...
+
+- Jocelyn.
+- Right. She's leaving town for two weeks.
+
+Oh, is Jocelyn leaving town?
+Where is Jocelyn going?
+
+Dude, you forgot
+her name one time.
+
+It's not a big deal. You don't have
+to keep proving you remember it.
+
+That's not
+what's happening here.
+
+I'm just saying it a lot,
+
+because she's
+so important to me.
+
+- Okay, what's her last name?
+- Uh-oh.
+
+- Mm-hmm. It's Pryce.
+- Right.
+
+She's leaving town
+for two weeks.
+
+I want to send flowers
+to her hotel room.
+
+Aww, that's sweet.
+I wish Amy would send me flowers.
+
+Why is it taking Holt and this I.T.
+guy so long to fix the internet?
+
+One Police Plaza sent him
+an hour ago.
+
+Huh.
+Why does Holt look so worried?
+
+What are you talking about?
+
+He looks exactly
+like he always does.
+
+To you, perhaps, but I finally
+learned how to read his emotions.
+
+His lips are slightly pursed,
+
+and he's blinking at
+eight-second intervals
+
+as opposed to his normal 10.
+
+Oh, my God.
+
+He's having a meltdown.
+
+"Meltdown" seems excessive.
+
+Yeah, it's a meltdown.
+Mark my words.
+
+Hey, there, Captain.
+Everything okay?
+
+No, I'm having a meltdown.
+
+Props. That was amazing.
+
+- Thanks. It was a lot of work.
+- This is Sergeant Knox.
+
+From Cyber Operations.
+
+He's discovered the reason
+for our network issues.
+
+A hacker is attempting
+to break into our servers.
+
+Not all of them.
+Just the LACMI server.
+
+- Well, that's good.
+- No, Captain Holt's nostril
+
+- just twitched. It's bad.
+- It's devastating.
+
+- Props again.
+- Thanks, again.
+
+The LACMI server holds
+clearance-protected
+
+information, including the
+names of our undercover agents.
+
+If it's compromised, people
+could lose their lives.
+
+Okay, but isn't
+the server secure?
+
+Yes, but the hacker's
+already used an ARP
+
+to resolve the host name
+with the DNS server.
+
+Uh-huh. ARP. DNS. Totally
+following what you're saying.
+
+Right now, they're trying
+to get root access
+
+by connecting the OSI network
+to the data-link.
+
+You know, I'm a bit
+of a computer nerd myself,
+
+but could you, maybe dumb it
+down a bit for my friends here?
+
+They're almost
+through our defenses.
+
+If we can't stop them, they'll
+be inside of our server in...
+
+19 minutes.
+
+Mama Magglione.
+
+Synced &amp; corrected by MaxPayne
+== https://subscene.com ==
+
+A countdown clock, green text
+on a black background:
+
+we are in full-on
+action-movie mode.
+
+Now all I need is my
+no-nonsense captain to tell me
+
+to focus,
+because time is running out.
+
+- Peralta.
+- Yes?
+
+You have something in your teeth.
+It's, uh, quite off-putting.
+
+What? No.
+"Time is running out."
+
+I fed you your line.
+
+No one ever has something
+in their teeth in a movie.
+
+Watch a movie, stupid Holt.
+Damn it,
+
+I tried to remove
+the server from the chain,
+
+but the hacker
+blocked the protocol.
+
+Why don't you just unplug it?
+
+That's what I do any time
+I'm having computer trouble.
+
+And also I code a lot.
+Java, mainframe.
+
+This guy knows
+what I'm talking about.
+
+The NYPD servers have
+internal backup batteries.
+
+Even if we unplug them, they'll
+stay on for another two hours.
+
+As a captain, I have an
+override code I can use
+
+to wipe the servers clean
+so there'd be no information
+
+for the hackers to steal,
+but there's one problem, Jake.
+
+- Yes, sir?
+- You still have something
+
+in your teeth.
+You tried to get rid of it,
+
+but it's made it
+much more prominent.
+
+Why would you stop everything
+just to tell me that?
+
+It's very distracting.
+Anyway, I can't use
+
+my override code,
+because doing so would delete
+
+the entire evidence
+tracking database.
+
+The NYPD only backs up
+that information
+
+at the precinct level
+twice a year.
+
+We would lose four months
+of evidence.
+
+So what you're saying
+is that every perp
+
+awaiting trial would walk free?
+
+Exactly, and we have
+hundreds of open cases.
+
+Wiping the servers
+is not an option.
+
+The only solution
+is to track down the hacker.
+
+How? It could be anywhere
+in the world...
+
+Osaka, Berlin, Macau, Stockholm.
+
+Are you guys just gonna
+keep letting me list cities
+
+- I've lived in?
+- Wait, the LACMI server
+
+isn't wired to the internet.
+It's supposed to be offline.
+
+How are they accessing it?
+
+They must be going
+through a physical AP.
+
+Again, these guys don't get
+computers like you and I,
+
+- So...
+- It's not a remote connection.
+
+The hacker's inside the building.
+
+Let's mobilize.
+
+Nobody in or out of the
+building without authorization.
+
+Check every inch of every floor.
+
+- And, Jake.
+- Oh, let me guess.
+
+It's on another tooth now.
+Is it somehow on my face?
+
+No, what I was
+going to say is, we only have
+
+15 minutes left.
+You need to focus,
+
+because time is running out.
+
+Oh, yeah.
+
+That's what the F
+I'm talking about.
+
+Thank you, sir.
+
+What's all this?
+
+Drunken brawl broke out
+between to sororities.
+
+We're keeping
+the Lambda Nus up here,
+
+and the Kappa Gamma Kappas
+are in holding on two.
+
+- They're all so mean.
+- They're kids, Boyle.
+
+I'm sure they're just scared.
+
+Yeah, we're just scared kids.
+Can we please go home now?
+
+I'm sorry, we have
+to process you, but I promise
+
+we'll go as fast as we can.
+
+I hope you get shot
+in the line of duty.
+
+- Oh, my God.
+- All right.
+
+Brush it off, Sarge,
+we've got an emergency.
+
+There's a hacker
+in the building.
+
+Look for anyone you don't
+recognize using a computer,
+
+or plugged in to a port.
+
+I initiated lockdown protocol.
+
+I'll search the fourth floor.
+Peralta, Diaz,
+
+start on one, work your way up.
+
+Jeffords,
+take Boyle, start on three,
+
+- work your way down.
+- On it.
+
+I'll grab the keys
+to the first floor.
+
+Smart.
+
+Ames, I love you,
+but I can't talk right now.
+
+I just got an alert that
+the Nine-Nine is on lockdown.
+
+I'm on my way.
+
+Wait, aren't you at the dentist?
+
+Yeah, I left. It's fine.
+It's a new hygienist,
+
+and to be honest,
+her scraping technique was a joke.
+
+We have 14 minutes
+to find a hacker.
+
+You're not gonna
+get back in time.
+
+But everybody else is there, right?
+
+I mean, it seems weird to have
+this big thing happen without me.
+
+We talked about this, Amy.
+
+You have an unhealthy fear
+of missing out on work.
+
+- You have FOMOW.
+- This isn't FOMOW.
+
+It's not like
+I'm freaking out or anything.
+
+Out of my way, you old bitch!
+This cab is mine.
+
+I'll be there in 10 minutes. I love you.
+Don't solve it without me.
+
+I got the keys.
+Let's go.
+
+- Jocelyn.
+- Jocelyn Pryce, hey.
+
+What are you doing here?
+Shouldn't you be at the airport?
+
+Yeah, uh, I wanted to stop
+and see you on the way there.
+
+- I think we need to talk.
+- Why? Is something wrong?
+
+I should've done this last
+night, but I chickened out.
+
+We need to break up.
+
+Ugh.
+Mama Magglione.
+
+You want to break up?
+
+But I just met
+your college friends.
+
+Are you telling me I had
+to talk to Matt for nothing?
+
+- Rosa.
+- I thought you liked Matt.
+
+Matt is a nightmare. He kept saying
+"hashtag tell me about it."
+
+We should really get going.
+
+Listen, I just don't understand
+why this is happening.
+
+Look, I love being with you,
+but how often am I actually with you?
+
+- We're together every night.
+- Unless you're at work,
+
+or doing work, or thinking about work.
+It's like you never have time for me.
+
+I'm sorry, but Rosa
+doesn't have time for you.
+
+We have a really
+important work thing.
+
+That was bad.
+Let me try rephrasing it.
+
+You are not as important
+as Rosa's job.
+
+Oh, wow.
+That was way worse.
+
+Look, we just have to take
+care of this one thing.
+
+It's an emergency. Then I'll be right
+back and we can talk about this.
+
+I really have
+to get to the airport.
+
+- Please.
+- Okay, fine.
+
+But I'm leaving in 10 minutes.
+
+Okay, just wait
+in the break room.
+
+Don't sit on the couch.
+It's full of farts.
+
+- You okay?
+- Yeah, I'm great.
+
+I love being dumped.
+It's super great.
+
+I think you're being sarcastic,
+
+but it's hard to tell with your
+voice the way it always is.
+
+We just checked the third
+floor. We didn't find anyone.
+
+- We're on our way to one.
+- You didn't even start yet?
+
+Rosa took a long
+time getting ready.
+
+You know how ladies be preppin'.
+
+Ow! I was just covering up the
+truth so it wouldn't be awkward.
+
+Ooh, did something
+awkward happen?
+
+I can probably relate.
+Dish, bish.
+
+Rosa got dumped out of the blue
+
+because she cares so much
+about her job and doesn't spend
+
+enough time with Jocelyn.
+
+Ow! There's no winning
+with you.
+
+Oh, so you got dumped,
+and you didn't see it coming.
+
+Oh, brother,
+you are in Boyle Country.
+
+Here's what you're
+gonna want to do.
+
+- Come on, Boyle.
+- Beg her to take you back,
+
+and don't be afraid to cry.
+I'm talking tears and snot.
+
+Quinn, did you get the alert?
+
+Yeah, but I haven't seen
+anyone unusual down here.
+
+I mean, other than 1,000
+Kappa Gamma Kappas.
+
+At least you didn't
+have to deal with Lambda Nus.
+
+Those girls are savages.
+
+Right? We're the victims here.
+
+We have a nighttime event, and
+if we don't make our blowouts,
+
+then we'll all look disgusting,
+
+and nobody will give
+any money to the kids,
+
+or dogs, or whatever
+the charity is.
+
+It's to buy shoes for poor
+people so they can get jobs.
+
+- Yeah.
+- We'll do our best,
+
+but it's possible
+you're gonna miss your event.
+
+That's too bad, 'cause you
+could use some decent shoes.
+
+What? Terry got
+these at Aldo.
+
+- Was it buy one, get one?
+- No, it wasn't.
+
+It was a three-for-one
+Labor Day doorbuster.
+
+- Makes sense.
+- Come on.
+
+Nobody on the fourth floor.
+
+Three is clear.
+We're finishing up two.
+
+I gotta get out of here before
+the sorority girls notice my tie.
+
+Just regroup in my office.
+
+- Go for Hitch.
+- Hitchcock, damn it.
+
+I meant to call Peralta.
+We're in the middle of a crisis.
+
+- Oh, no. Is it the lasagna?
+- The what?
+
+Don't play dumb with me, Raymond.
+
+What's wrong with the lasagna?
+
+I have no idea what
+you're talking about.
+
+What is it?
+What's wrong with the lasagna?
+
+- Is it bubbling over?
+- He won't tell me.
+
+Captain,
+give us the damned information.
+
+Is it bubbling over?
+
+I don't have time
+for these shenanigans.
+
+- What's the problem?
+- He wouldn't say.
+
+Oh, no.
+Then it must be bad.
+
+Call Jake.
+He'll tell us the truth.
+
+- Hitchcock?
+- Give it to us straight, man.
+
+- What's going on?
+- Uh, just searching
+
+- the first floor.
+- Searching the first floor?
+
+Why is the lasagna
+on the first floor?
+
+Why is the lasagna
+on the first floor?
+
+What? Are you talking about?
+The lasagna is fine.
+
+Oh, thank God.
+He says it's fine.
+
+Oh, you're a saint, Jakey.
+I love you.
+
+Okay. Holt's texting me.
+Love you, too.
+
+- Rosa! We gotta go up to Holt's.
+- Is this not done yet? Ugh.
+
+Jocelyn leaves in eight minutes, and
+I don't want things to end like this.
+
+Wow.
+Way to be vulnerable.
+
+I thought for sure
+you'd write her off
+
+the second she said
+she wanted to break up.
+
+Yeah, I did.
+She's dead to me.
+
+Wait? Then why are you so anxious
+to get back up and talk to her?
+
+Because I have a plan.
+
+I'm gonna beg her to stay, change
+whatever it is I need to change,
+
+then once our relationship
+is stronger than ever,
+
+I'm gonna dump her ass so quick.
+
+It's gonna be brutal.
+
+Okay, I'm gonna try
+and put this nicely.
+
+That is psychotic.
+
+Okay, maybe not psychotic,
+but it's like something
+
+the lady
+from "Killing Eve" would do.
+
+Not Sandra Oh, Villanelle.
+You know, the crazy one
+
+who stabs everyone
+with her hairpin.
+
+But... have you still
+not watched "Killing Eve"?
+
+I've told you about it
+so many times.
+
+Look, I've never lost a breakup,
+
+and I'm not starting now.
+I'm 12-0.
+
+I'm always the dumper,
+never the dumpee.
+
+I just don't think every breakup
+has a winner and a loser.
+
+Sounds like somebody
+who's lost all his breakups.
+
+Not all.
+
+- Maybe like half, max. Just...
+- being generous.
+
+Hey, Ames.
+
+Cab was too slow.
+Decided to walk.
+
+It's nice to take
+a little stroll.
+
+You're clearly running
+at full speed.
+
+- Whatever. How's it going there?
+- Not great.
+
+We still haven't found the hacker.
+
+Oh, super.
+I mean... oh, no.
+
+- Is Amy FOMOWing?
+- Of course not.
+
+Big time.
+
+Okay, I gotta go, babe.
+We're headed to Holt.
+
+Don't you dare hang up on me!
+
+I am part of this.
+
+Rosa, this is dumb.
+I'm just gonna go.
+
+No, no, no. You promised me more
+time. I still have seven minutes.
+
+I really don't want to miss my flight,
+and I cannot physically stand
+
+the way that room
+smells anymore.
+
+Just breathe through your mouth.
+
+Please, just stay here.
+I'll be right back.
+
+We searched everywhere.
+
+No hacker.
+Maybe he camouflaged himself.
+
+Maybe he's a real-life
+Peeta Mellark, out there
+
+- looking like a river rock.
+- I hate to say it,
+
+but maybe it's time we start thinking
+
+- about erasing the server.
+- No, not until the last possible minute.
+
+What else can you do?
+
+I've been trying to pinpoint him.
+
+I've been making my way
+through the server sockets,
+
+trying to determine which port
+he's plugged into.
+
+What's going on?
+I can't hear anything.
+
+Turn me around.
+I'm missing everything.
+
+Part of the team.
+What's up, team?
+
+Is Sergeant Santiago
+suffering from FOMOW?
+
+No.
+
+What's happening?
+
+I think the hacker just
+opened the holding cell.
+
+Mama Magglione.
+
+Oh, no.
+They're running free.
+
+Everyone, cover up
+your worst physical attributes.
+
+It's no use.
+They could always find new ones.
+
+Why would the hacker
+open the holding cell?
+
+Maybe he's trying
+to create a distraction.
+
+I think he can see that I'm
+closing in on his location.
+
+Then keep doing that.
+The rest of you,
+
+get them back into holding.
+
+Oh, come on.
+Get down from there.
+
+Do you know who my father is?
+He's in business.
+
+That's where you actually
+make money at your job.
+
+I make money.
+I make good money.
+
+That can't be true. Otherwise,
+you wouldn't still have that chin.
+
+What? Nobody ever said
+anything about my chin?
+
+Boyle, is something wrong
+with Terry's chin?
+
+- I don't want to get involved.
+- Oh, my God. It's true.
+
+How is she running so fast
+in those shoes?
+
+She's too drunk
+to feel any pain.
+
+- Open up.
+- No.
+
+You are trapped in a very
+small room, and we can see you.
+
+What's your plan here?
+
+Shut up, I'm trying to think.
+
+If you come in here,
+
+I'll bite you with this
+weird mouth thing.
+
+That is a staple remover,
+and it's shocking you don't know that.
+
+Sorry, I'm not a secretary.
+
+I don't have time for this.
+
+My girlfriend leaves in three minutes.
+
+- You are ruining my life.
+- You're ruining my life.
+
+I missed my Drybar appointment
+without calling to cancel first.
+
+They keep record
+of those things.
+
+Oh, my God, neither of your
+lives are being ruined.
+
+I told you I'm not on board
+with your psycho plan
+
+to destroy your girlfriend.
+
+I'm not gonna destroy her.
+I actually want her back.
+
+I really love her, Jake.
+
+What? Rosa, then why'd you say all
+that stuff about winning the breakup?
+
+Because it's weak and
+humiliating to love someone.
+
+I lied to make myself
+feel strong and normal.
+
+Right, that's definitely what came
+across, how normal you were being.
+
+Don't let her go.
+
+You guys, I used to have
+this boyfriend, Jason,
+
+then we broke up 'cause
+I got drunk at Spring Fling
+
+and passed out in a bush, and
+he took too long to find me,
+
+and now he's gone and it's like,
+
+there's no one to find me
+when I pass out in a bush.
+
+I'm not sure
+that totally applies here.
+
+No, she's right.
+
+I can't let Jocelyn go.
+
+Can you handle this without me?
+
+Yeah, it's under control.
+
+Go get Jocelyn back.
+Jocelyn Pryce.
+
+Do you need to use a phone
+to make a call?
+
+Gross, I don't know
+any phone numbers.
+
+Where the hell did Jocelyn go?
+
+Elevator.
+Tears and snot.
+
+Where are you going?
+I still have one minute left.
+
+I'm leaving because
+it's clearer to me than ever
+
+that your job is more important
+to you than I am.
+
+That's not true!
+
+Sorry, ma'am, I can't
+let anyone in or out.
+
+She's with me.
+
+You don't even apologize
+blow me off.
+
+You just text
+"Double homicide TTYL".
+
+Sometimes I add
+those little heart emojis.
+
+You know how uncomfortable
+that is for me.
+
+I'm sorry.
+My job is hard.
+
+Yeah, it is, and it's
+important, and you help people,
+
+but I need more.
+
+I promise I'll try.
+
+Honestly, I just don't
+see it changing.
+
+Move, move, move!
+
+Oh, no, why are you outside?
+
+Is it over?
+Did we catch the hacker?
+
+No, I have a personal thing
+that's more important to me.
+
+Oh, yeah, work-life balance.
+I have that, too.
+
+- Sorry, I can't...
+- Andrew, it's me!
+
+Come on, come on, come on.
+
+Got it.
+
+What?
+
+- Time check.
+- Five minutes, ten seconds.
+
+- It's over.
+- Don't say that.
+
+We'll never get the garlic
+bread toasted in time.
+
+- We can, and we will.
+- How?
+
+We'll set the oven to 500.
+
+Are you insane?
+It'll burn.
+
+We'll wrap it in foil.
+
+The foil will stick
+to the cheese.
+
+That's a risk
+we'll have to take.
+
+Move it.
+
+- Hey, you made it.
+- Yeah.
+
+We finally got all the
+Lambda Nus back into holding.
+
+Who are the Lambda Nus?
+
+Doesn't matter.
+I'll read your notes later.
+
+I didn't take any notes.
+
+What the hell, Jake?
+Do you even love me?
+
+Says the woman who
+never once sent me flowers.
+
+Never mind, uh, we still
+haven't found the hacker,
+
+but the cyber guy
+is getting close.
+
+Okay, let's check in with Holt.
+
+Hold on to him, girl.
+
+He seems pretty sweet, and you
+guys are like both sevens.
+
+Oh, come on.
+
+We only have two minutes left.
+
+I'm telling you,
+I can't find him.
+
+Captain, maybe it's time
+to face reality.
+
+We have to erase the servers.
+
+I'll initiate
+the sequence for you.
+
+It just needs your passcode.
+
+Perhaps you're right.
+How depressing.
+
+I never would've thought that
+typing an intricate sequence
+
+of numbers from memory
+would bring such sadness.
+
+Hi, I'm Sergeant Santiago.
+
+I'm sure these guys have
+told you all about me already.
+
+Long story short, nothing
+happens around here without me.
+
+What is that?
+
+We just got an NOS ping
+from the first floor.
+
+The hacker is in room 103.
+
+Mama Magglione.
+
+Go, go!
+Room 103!
+
+What are we gonna do?
+
+It's still frozen in the middle!
+
+Well, then turn up the temp.
+
+It's already at 500.
+It's maxed out.
+
+Then set the motherf****
+to broil!
+
+Okay!
+Geez.
+
+I thought you said you searched
+the entire first floor.
+
+I did. I even checked
+the ceiling for clingers.
+
+Hey, who's that guy from Cyber?
+
+Sergeant Knox. We've been
+talking computers all day.
+
+Pretty technical stuff.
+I kept up.
+
+His face is really familiar.
+I can't place him.
+
+It's empty.
+
+And there's nothing plugged
+in to the internet port.
+
+But Knox said he got a NOS ping.
+
+I mean, NOSes don't just
+ping themselves, guys.
+
+Jake, stop.
+You're not fooling anybody.
+
+You don't anything
+about computers.
+
+Oh, my God.
+
+You're right.
+I'm not fooling anybody.
+
+I was fooled, Jakey.
+You're my computer boy.
+
+No, no, no. I don't know anything
+about computers. None of us do.
+
+And Knox could tell that.
+
+So he knew that
+we wouldn't catch on
+
+if he just made stuff up.
+
+What if the reason
+we can't find the hacker
+
+is because there is no hacker?
+
+Why would Knox lie about that?
+
+What if he doesn't actually care
+what's on the LACMI servers?
+
+Maybe his real goal is to just trick
+Holt into erasing all the servers.
+
+He might just be trying
+to delete some evidence.
+
+So you think he's a criminal.
+
+Oh, my God.
+We have to go right now.
+
+I know how I know Knox.
+
+He's the guy from the security
+footage in the Avery Street murder.
+
+Are you sure?
+
+Yes, he shaved his beard,
+but it's definitely him.
+
+- We have less than a minute.
+- Call Holt.
+
+Knox is right next to him.
+He'll hear everything.
+
+Here, I'll text him.
+
+I don't get it.
+
+Holt was about to erase
+the servers.
+
+If that's what Knox wanted,
+
+why did he stop him
+
+and say the hacker
+was in room 103?
+
+I don't know. Maybe to get rid of us.
+No, to get rid of you.
+
+The second you showed up
+in Holt's office,
+
+he sent us away
+and the holding cell doors,
+
+they opened when I walked in
+with Amy on my phone.
+
+He must've known
+that she would recognize him.
+
+Why is this taking
+so long to send?
+
+What's going on?
+
+We're running out of time here.
+
+Uh, sorry, it's uh...
+From my husband, Kevin.
+
+Well, all due respect, but
+you don't have time for that.
+
+You've got 15 seconds before
+the hacker is inside the server.
+
+Uh, yes, uh... it's just that
+Kevin just texted me some
+
+hot goss about our favorite
+reality TV star.
+
+10 seconds.
+Your agents' lives are at stake.
+
+- Eight, seven...
+- Oh, I understand.
+
+I just have to find out
+about the hot goss.
+
+"How certain are you?
+Sincerely, Raymond Holt."
+
+"100 percent, sincerely"...
+
+Why am I doing that part?
+Send.
+
+Okay, it said delivered.
+
+Make way, make way.
+
+Peralta, Santiago,
+you'll be happy to know
+
+that I did not erase the server.
+
+Oh, thank God.
+
+But sad to know that Knox caught on
+and is now holding me at gunpoint.
+
+Why not lead with that?
+
+Nobody has to get hurt.
+
+Just put your guns down,
+and put your hands in the air.
+
+Hey! I said
+put your guns down,
+
+and get your hands in the air.
+
+The bread, it's gonna burn.
+
+Guys, do what he says.
+
+I'll buy you all
+the garlic bread you want.
+
+We're gonna hold you
+to that, Sarge.
+
+Knox, you're pointing a gun
+at an NYPD captain.
+
+Have you really thought
+this through?
+
+This is not my fault.
+
+You were supposed to be
+at the dentist.
+
+What?
+How did you...
+
+You called me.
+
+He called me.
+
+He said he had a tip
+for the officer in charge
+
+of the Avery murder.
+I said I could meet any time
+
+except for this morning
+because of the dentist.
+
+I had it all planned out.
+
+Guess you didn't count
+on my FOMOW.
+
+Yeah, that's right.
+It's crippling.
+
+Oh, picking a weird time,
+but I'm glad you're finally owning it.
+
+Here's what's gonna happen.
+
+The captain and I are gonna
+walk out of here real slow.
+
+No one's gonna move a muscle.
+
+Everyone's gonna be okay.
+
+Now we're just gonna move.
+
+He's down. He's down.
+We got him.
+
+Jeffords, get him into holding.
+
+With pleasure.
+You're about to have a really bad day.
+
+Give me that.
+
+Look at his pants, ladies.
+
+They're relaxed fit.
+
+Uh-oh.
+Is that a braided belt?
+
+Whoa, what happened?
+
+You know what, forget it.
+I'll just read Amy's notes.
+
+Why aren't you guys
+on your way to the airport?
+
+Oh, I'm gonna miss my flight,
+but it's worth it.
+
+It means a lot that Rosa bailed
+on all this just for me.
+
+- Aww.
+- You did what, Diaz?
+
+Now, sir, I told her
+it was okay.
+
+If you're gonna be mad
+at anyone, be mad at me.
+
+Okay, I am mad at you.
+
+What?
+No.
+
+I didn't think you
+were really gonna be mad.
+
+That's... that backfired.
+Be mad at Rosa.
+
+Worst morning ever.
+
+Yeah, it was stressful,
+but we got the guy.
+
+Surprised you two
+are taking it so hard.
+
+We were talking about our lunch,
+you self-absorbed son-of-a-bitch.
+
+- Come on.
+- Look at this bread.
+
+It's completely inedible.
+
+There's not even any soft parts
+in the middle we can pull out.
+
+Title of your sex tape?
+
+We cooked that lasagna for nothing.
+Nothing!
+
+Okay. But have you ever considered
+eating lasagna with no garlic bread?
+
+We've...
+
+Never done that before.
+
+I guess maybe
+we could give it a try.
+
+What do you think, Hitchcock?
+
+What the hell. I had a feeling
+something crazy was gonna happen today.
+
+There you go.
+
+It's almost ready.
+
+Mama Magglione.
+
+- Mmm.
+- Mmm.
+
